@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/islam-sulaiman">
+  <a href="https://www.linkedin.com/in/ahmed-khaled123/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/eslamabohashem?igshid=OGQ5ZDc2ODk2ZA==">
+  <a href="https://www.instagram.com/ahmedkhaled_16/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://islamsulaiman.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-lightgrey?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  <a href="https://www.facebook.com/ahmed.khaled.3726613">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
