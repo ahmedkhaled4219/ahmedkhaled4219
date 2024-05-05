@@ -14,9 +14,6 @@
   </a>
 </div>
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedkhaled4219&style=flat-square&color=blue" alt=""/>
-</div>
 <h1 id="hey" align="center">
   Hey There Geeks
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
